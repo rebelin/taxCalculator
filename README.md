@@ -71,3 +71,7 @@ Taxes owed: $2640.0
 Percent of gross: 9%
 Net income: $27360.0
 ```
+
+Author
+------
+Rebecca Lin
